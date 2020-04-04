@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F67E-6AA0
-
- Directory of C:\My_Git_Projects
-
-04/04/2020  05:41 PM    <DIR>          .
-04/04/2020  05:41 PM    <DIR>          ..
-04/04/2020  05:41 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  73,939,476,480 bytes free
+Change1
